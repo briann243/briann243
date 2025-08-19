@@ -8,8 +8,7 @@
 
 - [Google IT Certificate](https://coursera.org/share/510d57249831fd1a39645108811ec8aa)
 - [Google Cyber Security Certificate ](https://www.coursera.org/account/accomplishments/specialization/9X5N73DU4VH2)
-- [Introduction to Cybersecruity Tools & Cyberattacks]
-- [IBM Data Science Professional Certification]  
+
   
 
 <h2> 🤳 Connect with me:</h2>

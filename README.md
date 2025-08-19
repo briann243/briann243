@@ -6,7 +6,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [Google IT Support Professional Certificate ](https://www.coursera.org/account/accomplishments/certificate/ZGYBHLQU5LHT)
+- [https://coursera.org/share/510d57249831fd1a39645108811ec8aa)
 - [Google Data Analytics Professional Certificate ]
 - [Introduction to Cybersecruity Tools & Cyberattacks]
 - [IBM Data Science Professional Certification]  

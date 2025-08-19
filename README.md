@@ -17,4 +17,5 @@
 
 
 [linkedin]: www.linkedin.com/in/brian-pani
+[Medium] https://medium.com/@brian.devv
 

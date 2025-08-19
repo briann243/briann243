@@ -19,3 +19,4 @@
 [linkedin]: www.linkedin.com/in/brian-pani
 
 
+"Building projects, breaking barriers, and always learning"

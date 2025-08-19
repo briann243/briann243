@@ -14,9 +14,9 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BrianPani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BrianPani | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />]
+[<img align="left" alt="Brian Pani | Medium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@brian.devv)
 
-
+<br/>
 [linkedin]: www.linkedin.com/in/brian-pani
-[Medium]: https://medium.com/me/stories/public
+
 
